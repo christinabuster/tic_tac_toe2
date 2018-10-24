@@ -1,1 +1,1 @@
-Play the game with node game.js
+Play the game with node.js
